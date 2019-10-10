@@ -6,5 +6,4 @@ Start!!
 
 Yeah!
 
-20170617
-game snake!
+over~
